@@ -48,7 +48,10 @@ No additional installation or setup is required.
 
 ## 📸 Website Preview
 
-Add a screenshot of your website homepage here after uploading your project to GitHub.
+[food recipe website](/img1.png)
+[food recipe website](/img2.png)
+[food recipe website](/img3.png)
+
 
 ---
 
