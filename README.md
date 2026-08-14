@@ -48,10 +48,9 @@ No additional installation or setup is required.
 
 ## 📸 Website Preview
 
-![food recipe website](/img1.png)
-![food recipe website](/img3.png)
-![food recipe website](/img2.png)
-
+<img src="/img1.png" width="350">
+<img src="/img3.png" width="350">
+<img src="/img2.png" width="350">
 
 
 ---
